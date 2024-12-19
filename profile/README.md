@@ -2,9 +2,9 @@
 
 **Innovating Minecraft Gaming Experiences**
 
-![Astrofox Studios](https://img.shields.io/badge/Astrofox_Studios-Innovation_in_Gaming-blue?style=flat-square)
-![Minecraft Events](https://img.shields.io/badge/Minecraft_Events-Destiny_Games_and_Tropiclash-green?style=flat-square)
-![Game Development](https://img.shields.io/badge/Game_Development-Minecraft_MMO-orange?style=flat-square)
+![Astrofox Studios](https://img.shields.io/badge/Astrofox_Studios-blue?style=flat-square)
+![Minecraft Events](https://img.shields.io/badge/Minecraft_Events-Destiny_Games-purple?style=flat-square)
+![Game Development](https://img.shields.io/badge/Game_Development-Tropiclash-green?style=flat-square)
 
 ---
 
