@@ -45,7 +45,7 @@ A game server hosting platform with advanced features and user-friendly design.
 - **Role:** CEO  
 - **Expertise:** Game development and software engineering  
 
-### **Lutra**  
+### **Lutraa**  
 - **Role:** CEO  
 - **Expertise:** Project management and design  
 
@@ -66,8 +66,6 @@ Are you passionate about gaming and development? Astrofox Studios is looking for
 
 - **Apply for Staff:** [Staff Application](https://forms.gle/JTfJMNg5rS5i38rD9)  
 - **Apply for Beta Testing:** [Beta Testing Application](https://forms.gle/7yPBY7xNvz63aLCM8)  
-
-![We Need You](https://www.astrofoxstudios.com/images/image31.png)
 
 ---
 
