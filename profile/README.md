@@ -27,7 +27,7 @@ Astrofox Studios manages a range of initiatives designed to enhance Minecraft ga
 
 ### **Destiny Games**  
 Competitive Minecraft events centered on strategy and teamwork.  
-- **Status:** Scaling Down 🚧  
+- **Status:** In Development 🔨
 
 ### **Tropiclash**  
 A tropical-themed MMO experience featuring dynamic gameplay and engaging mechanics.  
