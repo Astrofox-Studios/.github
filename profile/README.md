@@ -20,15 +20,15 @@ For official company details, visit our [registration page](https://find-and-upd
 
 Astrofox Studios manages a range of initiatives designed to enhance Minecraft gameplay. Visit [astrofoxstudios.com](https://astrofoxstudios.com) for more details.  
 
-### **Destiny Games**  
+### **[Destiny Games](https://destinygames.org)**  
 Competitive Minecraft events centered on strategy and teamwork.  
-- **Status:** In Development 🔨
+- **Status:** In Development 🔨 (soon!)
 
 ### **Tropiclash**  
 A tropical-themed MMO experience featuring dynamic gameplay and engaging mechanics.  
 - **Status:** In Development 🔨  
 
-### **ExpHost**  
+### **[ExpHost](https://exphost.net)**  
 A game server hosting platform with advanced features and user-friendly design.  
 - **Status:** Live ✅  
 
