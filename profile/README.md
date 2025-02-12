@@ -10,12 +10,7 @@
 
 ## 🏢 **About Us**
 
-Astrofox Studios Ltd is a registered company focused on developing immersive Minecraft gaming experiences and innovative technologies. Our projects are designed to engage and inspire communities, ranging from competitive events to expansive MMO environments.  
-
-- **Incorporation Date:** 11 December 2024  
-- **Company Number:** 16129887  
-- **Registered Office:** 10939 182-184 High Street North, East Ham, London, England, E6 2JA  
-- **Nature of Business (SIC):** 58210 - Publishing of computer games  
+Astrofox Studios Ltd is a registered company focused on developing immersive Minecraft gaming experiences and innovative technologies. Our projects are designed to engage and inspire communities, ranging from competitive events to expansive MMO environments.    
 
 For official company details, visit our [registration page](https://find-and-update.company-information.service.gov.uk/company/16129887).  
 
