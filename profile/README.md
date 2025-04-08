@@ -3,8 +3,9 @@
 **Innovating Minecraft Gaming Experiences**
 
 ![Astrofox Studios](https://img.shields.io/badge/Astrofox_Studios-blue?style=flat-square)
-![Minecraft Events](https://img.shields.io/badge/Minecraft_Events-Destiny_Games-purple?style=flat-square)
-![Game Development](https://img.shields.io/badge/Game_Development-Tropiclash-green?style=flat-square)
+![Minecraft Events](https://img.shields.io/badge/Destiny_Games-purple?style=flat-square)
+![Game Development](https://img.shields.io/badge/Tropiclash-green?style=flat-square)
+![Game Development](https://img.shields.io/badge/ExpHost-blue?style=flat-square)
 
 ---
 
@@ -64,4 +65,4 @@ Are you passionate about gaming and development? Astrofox Studios is looking for
 
 ---
 
-> &copy; 2024 Astrofox Studios. All rights reserved.  
+> &copy; 2025 Astrofox Studios. All rights reserved.  
